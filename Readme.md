@@ -7,10 +7,10 @@ This Safari 5 extension removes two features I find highly irritating from twitt
 
 I hope these improvements make Twitter.com more bearable for you on those occasions when it must be visited.
 
-In order to install the extension, go to:  
+Click here to download the Safari 5 extension:  
 <http://github.com/downloads/urschrei/cleantwitter/cleantwitter.safariextz>
 
-If you are a Firefox user, you can install this extension as Greasemonkey script, by first installing [Greasemonkey], then clicking here:  
+If you are a Firefox user, you can install this extension as Greasemonkey script, by first installing [Greasemonkey], then clicking here to download the extension:  
 <http://github.com/urschrei/cleantwitter/blob/master/cleantwitter.user.js>
 
 [Greasemonkey]: https://addons.mozilla.org/en-US/firefox/addon/748/
