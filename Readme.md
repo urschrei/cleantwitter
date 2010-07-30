@@ -10,7 +10,7 @@ I hope these improvements make Twitter.com more bearable for you on those occasi
 Click here to download the Safari 5 extension:  
 <http://github.com/downloads/urschrei/cleantwitter/cleantwitter.safariextz>
 
-If you are a Firefox user, you can install this extension as Greasemonkey script, by first installing [Greasemonkey], then clicking here to install the extension:  
+If you are a Firefox user, you can install this extension as Greasemonkey script, by first installing [Greasemonkey], then clicking here to install the user script:  
 <http://github.com/urschrei/cleantwitter/blob/master/cleantwitter.user.js>
 
 [Greasemonkey]: https://addons.mozilla.org/en-US/firefox/addon/748/
