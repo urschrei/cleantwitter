@@ -15,7 +15,7 @@ Click here to download the Safari 5 extension:
 Click here to install the Google Chrome extension:  
 <http://github.com/downloads/urschrei/cleantwitter/cleantwitter.crx>
 
-If you are a Firefox user, you can install a Greasemonkey script, by first installing [Greasemonkey], then clicking here to install the user script:  
+If you are a Firefox user, you can install the extension as a Greasemonkey script, by first installing [Greasemonkey], then clicking here to install the user script:  
 <http://github.com/urschrei/cleantwitter/blob/master/cleantwitter.user.js>
 
 [Greasemonkey]: https://addons.mozilla.org/en-US/firefox/addon/748/
