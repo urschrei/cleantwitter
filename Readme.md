@@ -13,4 +13,7 @@ Click here to download the Safari 5 extension:
 If you are a Firefox user, you can install a Greasemonkey script with the same functionality, by first installing [Greasemonkey], then clicking here to install the user script:  
 <http://github.com/urschrei/cleantwitter/blob/master/cleantwitter.user.js>
 
+If you are a Google Chrome user, click here to install the extension:
+<http://github.com/downloads/urschrei/cleantwitter/cleantwitter.crx>
+
 [Greasemonkey]: https://addons.mozilla.org/en-US/firefox/addon/748/
