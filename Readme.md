@@ -1,6 +1,6 @@
 ## Clean Twitter ##
 
-This extension removes two features I find highly irritating from twitter.com:
+This extension removes two highly irritating features from twitter.com:
 
 1. The 'Trending' sidebar. I don't care what millions of Twitter users are discussing. It is now reset to "collapsed" when the page loads.
 2. The 'Who to follow' functionality. The heuristic which controls the display of these users is inevitably useless. It showed me a blocked user earlier today. The entire `<div>` is expunged upon page load, meaning it is simply never seen.
@@ -8,9 +8,9 @@ This extension removes two features I find highly irritating from twitter.com:
 I hope these improvements make twitter.com more bearable for you on those occasions when it must be visited.  
 
 ---  
-**The extension is now available for Safari 5.x, Google Chrome 5.x, and Firefox 3.x**  
+**The extension is available for Safari 5.x, Google Chrome 5.x, and as a [Greasemonkey] script for Firefox 3.x**  
 
-Click here to download the Safari 5 extension:  
+Click here to download/install the Safari 5 extension:  
 <http://github.com/downloads/urschrei/cleantwitter/cleantwitter.safariextz>
 
 Click here to install the Google Chrome extension:  
