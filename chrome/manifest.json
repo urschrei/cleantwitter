@@ -1,6 +1,6 @@
 {
   "name": "cleantwitter",
-  "version": "1.0",
+  "version": "1.1",
 "update_url": "http://github.com/urschrei/cleantwitter/blob/master/chrome/updates.xml",
   "description": "Removes irritating social features from twitter.com",
   "permissions": ["http://twitter.com/*", "https://twitter.com/*"],

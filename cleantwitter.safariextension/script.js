@@ -16,3 +16,12 @@ for (var j = 0; j < suggested.snapshotLength; j++) {
 	newsuggested = suggested.snapshotItem(j);
 	newsuggested.parentNode.removeChild(newsuggested);
 }
+
+
+
+// remove promo stuff
+promo = document.evaluate("//p[@class='promotion round']", document, null, XPathResult.ORDERED_NODE_SNAPSHOT_TYPE, null);
+for (var j = 0; j < promo.snapshotLength; j++) {
+	newpromo = promo.snapshotItem(j);
+	newpromo.parentNode.removeChild(newpromo);
+}
